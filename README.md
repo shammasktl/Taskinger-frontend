@@ -35,6 +35,11 @@ _Coming soon..._
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
+### 👤 Contributors
+
+- [@shammasktl](https://github.com/shammasktl) – Creator & Frontend Developer
+- [@risilmrk](https://github.com/risilmrk) – Creator & Backend Developer
+
 ---
 
 ## 📄 License
