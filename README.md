@@ -15,13 +15,20 @@ Taskinger is a modern, developer-friendly task management platform designed to s
 
 ---
 
-## 🛠️ Tech Stack (Planned/Used)
+## 🛠️ Tech Stack (Used)
 
 - **Frontend**: React.js + Tailwind CSS  
-- **Backend**: Node.js (Express)
+- **Backend**: Node.js (Express) 
 - **Database**: MongoDB  
-- **Authentication**: JWT   
-- **Optional Integrations**: Google Calendar, Slack, Email  
+- **Authentication**: JWT
+- **Optional Integrations**: Google Calendar, Email  
+
+---
+
+## 📂 Project Structure
+
+- 🔗 **Frontend Repository**: [Taskinger-frontend](https://github.com/shammasktl/Taskinger-frontend)  
+- 🔗 **Backend Repository**: [Taskinger-Backend](https://github.com/risilmrk/Taskinger-Backend)
 
 ---
 
@@ -38,7 +45,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ### 👤 Contributors
 
 - [@shammasktl](https://github.com/shammasktl) – Creator & Frontend Developer
-- [@risilmrk](https://github.com/risilmrk) – Creator & Backend Developer
+- [@risilmrk](https://github.com/risilmrk) - Creator & Backend Developer
 
 ---
 
