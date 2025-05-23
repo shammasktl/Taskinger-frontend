@@ -18,9 +18,9 @@ Taskinger is a modern, developer-friendly task management platform designed to s
 ## 🛠️ Tech Stack (Planned/Used)
 
 - **Frontend**: React.js + Tailwind CSS  
-- **Backend**: Node.js (Express) / *Optionally with NestJS*  
+- **Backend**: Node.js (Express)
 - **Database**: MongoDB  
-- **Authentication**: JWT / OAuth2 / Firebase Auth  
+- **Authentication**: JWT   
 - **Optional Integrations**: Google Calendar, Slack, Email  
 
 ---
