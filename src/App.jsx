@@ -1,11 +1,11 @@
-import Sidebar from "./components/templates/Sidebar/Sidebar"
+import { RouterProvider } from "react-router-dom";
+
+import { routes } from "./util/routes";
 
 const App = () => {
   return (
-    <>
-    <Sidebar />
-    </>
-  )
-}
+    <RouterProvider router={routes} />
+  );
+};
 
-export default App
+export default App;
